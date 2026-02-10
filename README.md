@@ -4,7 +4,8 @@
 > Dataset : MovieLens 25M · Algorithmes : CF item-based, CF user-based, SVD + UMAP
 
 ---
-
+https://ballogou-essi.github.io/Movie-Recommendations/
+---
 ## Table des matieres
 
 1. [Contexte et problematique](#1-contexte-et-problematique)
