@@ -12,7 +12,7 @@
 **L'objectif** : prédire les films qu'un utilisateur est susceptible d'apprécier parmi des milliers qu'il n'a pas encore vus.
 
 ---
-👉 https://ballogou-essi.github.io/Movie-Recommendations/
+👉 [https://ballogou-essi.github.io/Movie-Recommendations/](https://ballogou-essi.github.io/Movie-Recommender-System/)
 ---
 
 ## Approches comparées
